@@ -1,0 +1,1 @@
+The images here are PNG files and can be edited with Inkscape or Gimp.  Use these as templates to create new ones. 
